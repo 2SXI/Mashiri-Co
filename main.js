@@ -42,6 +42,25 @@ if (revealEls.length && 'IntersectionObserver' in window) {
   revealEls.forEach(el => el.classList.add('visible'));
 }
 
+// ===== Document Library (credentials.html only) =====
+const docLibraryItems = document.querySelectorAll('.doc-library-list li[data-file]');
+docLibraryItems.forEach(li => {
+  const file = li.getAttribute('data-file');
+  const status = li.querySelector('.doc-library-status');
+  fetch(file, { method: 'HEAD' })
+    .then(res => {
+      if (res.ok) {
+        li.innerHTML = `<span class="doc-library-name">${li.querySelector('.doc-library-name').textContent}</span><a href="${file}" download class="doc-library-download">Download PDF</a>`;
+      } else {
+        throw new Error('not found');
+      }
+    })
+    .catch(() => {
+      if (status) status.textContent = 'Not yet uploaded';
+      if (status) status.classList.add('pending');
+    });
+});
+
 // ===== Document Verification Lightbox (credentials.html only) =====
 const docOverlay = document.getElementById('doc-overlay');
 const docLightbox = document.getElementById('doc-lightbox');
@@ -53,6 +72,7 @@ if (docOverlay && docLightbox && docClose && docTitle && docBody) {
   const docContent = {
     'cert-reg': {
       title: 'Certificate of Re-registration',
+      file: 'documents/certificate-of-reregistration.pdf',
       html: `
         <div class="doc-detail-grid">
           <div><span class="dd-label">Entity name</span><span class="dd-value">Mashiri &amp; Company Registered Public Accountants (Private) Limited</span></div>
@@ -67,6 +87,7 @@ if (docOverlay && docLightbox && docClose && docTitle && docBody) {
     },
     'cert-practice': {
       title: 'Practising Certificate No. 148',
+      file: 'documents/practising-certificate.pdf',
       html: `
         <div class="doc-detail-grid">
           <div><span class="dd-label">Certificate holder</span><span class="dd-value">Mashiri, Cleopas T.</span></div>
@@ -81,6 +102,7 @@ if (docOverlay && docLightbox && docClose && docTitle && docBody) {
     },
     'cert-tax': {
       title: 'ZIMRA Tax Clearance Certificate (ITF263)',
+      file: 'documents/zimra-tax-clearance.pdf',
       html: `
         <div class="doc-detail-grid">
           <div><span class="dd-label">Taxpayer name</span><span class="dd-value">Mashiri &amp; Company Registered Public Accountants</span></div>
@@ -95,6 +117,7 @@ if (docOverlay && docLightbox && docClose && docTitle && docBody) {
     },
     'cert-entity': {
       title: 'Entity Summary & Directors',
+      file: 'documents/entity-summary.pdf',
       html: `
         <div class="doc-detail-grid">
           <div><span class="dd-label">Registered office</span><span class="dd-value">10773 Budiriro 5, Harare</span></div>
@@ -121,10 +144,31 @@ if (docOverlay && docLightbox && docClose && docTitle && docBody) {
     if (!data) return;
     lastDocTrigger = triggerEl || document.activeElement;
     docTitle.textContent = data.title;
-    docBody.innerHTML = data.html;
+    docBody.innerHTML = data.html + '<div class="doc-file-area" id="doc-file-area"><p class="doc-file-loading">Checking for uploaded document&hellip;</p></div>';
     docLightbox.classList.add('open');
     docOverlay.classList.add('open');
     docClose.focus();
+
+    const fileArea = document.getElementById('doc-file-area');
+    if (data.file) {
+      fetch(data.file, { method: 'HEAD' })
+        .then(res => {
+          if (res.ok) {
+            fileArea.innerHTML = `
+              <div class="doc-file-found">
+                <iframe src="${data.file}" title="${data.title} (PDF)" loading="lazy"></iframe>
+                <a href="${data.file}" download class="btn-secondary doc-download">Download PDF</a>
+              </div>`;
+          } else {
+            throw new Error('not found');
+          }
+        })
+        .catch(() => {
+          fileArea.innerHTML = '<p class="doc-file-pending">The scanned document for this certificate hasn&rsquo;t been uploaded yet &mdash; the details above are accurate and verifiable directly with the issuing authority in the meantime.</p>';
+        });
+    } else {
+      fileArea.remove();
+    }
   }
   function closeDoc() {
     docLightbox.classList.remove('open');

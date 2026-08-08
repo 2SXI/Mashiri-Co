@@ -1006,6 +1006,38 @@ footer{
   color:var(--muted-brown);
   line-height:1.7;
 }
+.doc-file-area{
+  margin-top:20px;
+  padding-top:20px;
+  border-top:1px solid var(--rule);
+}
+.doc-file-loading{
+  font-size:13px;
+  color:var(--muted-brown);
+  font-style:italic;
+}
+.doc-file-pending{
+  font-size:13.5px;
+  color:var(--muted-brown);
+  line-height:1.7;
+  background:var(--parchment-2);
+  padding:14px 16px;
+  border-radius:4px;
+}
+.doc-file-found iframe{
+  width:100%;
+  height:420px;
+  border:1px solid var(--rule);
+  border-radius:4px;
+  display:block;
+}
+.doc-download{
+  margin-top:14px;
+  display:inline-flex;
+  color:var(--ledger-green);
+  border-color:rgba(15,42,29,0.25);
+}
+.doc-download:hover{border-color:var(--ledger-green);}
 .portal-close{
   background:none;
   border:1px solid var(--rule);
@@ -1233,3 +1265,138 @@ header.scrolled{
   border-color:rgba(15,42,29,0.3);
 }
 .cta-banner .btn-secondary:hover{border-color:var(--ledger-green);}
+
+/* ============ Document Library ============ */
+.doc-library{
+  margin-top:48px;
+  padding-top:40px;
+  border-top:1px solid rgba(242,235,221,0.15);
+}
+.doc-library-heading{
+  font-family:'Fraunces',serif;
+  font-size:20px;
+  color:var(--parchment);
+  margin:0 0 6px;
+}
+.doc-library-sub{
+  font-size:14px;
+  color:rgba(242,235,221,0.6);
+  margin:0 0 20px;
+}
+.doc-library-list{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:flex;
+  flex-direction:column;
+  gap:1px;
+  background:rgba(242,235,221,0.08);
+}
+.doc-library-list li{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:16px 20px;
+  background:var(--ledger-green);
+}
+.doc-library-name{
+  font-size:14.5px;
+  color:var(--parchment);
+}
+.doc-library-status{
+  font-size:12px;
+  color:rgba(242,235,221,0.55);
+}
+.doc-library-status.pending{color:var(--brass-soft); opacity:0.8;}
+.doc-library-download{
+  font-family:'JetBrains Mono',monospace;
+  font-size:12.5px;
+  letter-spacing:0.04em;
+  color:var(--brass-soft);
+  text-decoration:none;
+  border:1px solid rgba(224,198,103,0.4);
+  padding:6px 14px;
+  border-radius:3px;
+  transition:border-color 0.2s ease, background 0.2s ease;
+}
+.doc-library-download:hover{background:rgba(224,198,103,0.1); border-color:var(--brass-soft);}
+@media (max-width:560px){
+  .doc-library-list li{flex-direction:column; align-items:flex-start; gap:10px;}
+}
+
+/* ============ Floating WhatsApp button ============ */
+.wa-float{
+  position:fixed;
+  right:20px;
+  bottom:20px;
+  width:56px;
+  height:56px;
+  border-radius:50%;
+  background:#25D366;
+  color:#ffffff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  box-shadow:0 6px 20px rgba(0,0,0,0.25);
+  z-index:150;
+  transition:transform 0.2s ease, box-shadow 0.2s ease;
+}
+.wa-float:hover{
+  transform:translateY(-3px);
+  box-shadow:0 10px 26px rgba(0,0,0,0.3);
+}
+.wa-float:focus-visible{
+  outline:2px solid var(--brass);
+  outline-offset:3px;
+}
+@media (max-width:560px){
+  .wa-float{right:16px; bottom:16px; width:50px; height:50px;}
+}
+@media (prefers-reduced-motion: reduce){
+  .wa-float{transition:none;}
+}
+
+/* ============ Send Documents ============ */
+.send-docs{
+  background:var(--parchment-2);
+  padding:64px 0;
+}
+.send-docs-grid{
+  display:grid;
+  grid-template-columns:repeat(3, 1fr);
+  gap:24px;
+}
+.send-docs-card{
+  background:var(--parchment);
+  border:1px solid var(--rule);
+  border-radius:6px;
+  padding:26px;
+}
+.send-docs-icon{
+  width:42px; height:42px;
+  border-radius:50%;
+  background:var(--ledger-green);
+  color:var(--parchment);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-bottom:14px;
+}
+.send-docs-card h3{font-size:17px; margin-bottom:8px;}
+.send-docs-card p{font-size:14px; color:#5A5142; line-height:1.6; margin-bottom:14px;}
+.send-docs-link{
+  font-family:'JetBrains Mono',monospace;
+  font-size:13px;
+  color:var(--muted-brown);
+  text-decoration:none;
+}
+.send-docs-link:hover{text-decoration:underline;}
+.send-docs-note{
+  margin-top:32px;
+  font-size:13px;
+  color:#5A5142;
+  max-width:70ch;
+}
+@media (max-width:880px){
+  .send-docs-grid{grid-template-columns:1fr;}
+}
