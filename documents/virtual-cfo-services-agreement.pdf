@@ -1,0 +1,443 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [413.66999999999996 668.0 498.66999999999996 681.0 ]/Subtype /Widget /T (effective_date)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+5 0 obj
+<< /DA (/HeBo 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [105.89 632.0 305.89 645.0 ]/Subtype /Widget /T (client_name)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+6 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [72.0 618.0 312.0 631.0 ]/Subtype /Widget /T (client_address)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+7 0 obj
+<< /DA (/HeBo 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [118.68 596.0 318.68 609.0 ]/Subtype /Widget /T (provider_name)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+8 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [72.0 582.0 312.0 595.0 ]/Subtype /Widget /T (provider_address)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+9 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [313.75999999999993 522.5 398.75999999999993 535.5 ]/Subtype /Widget /T (start_date)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+10 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [72.0 508.5 117.0 521.5 ]/Subtype /Widget /T (term_months)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+11 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [222.61 508.5 307.61 521.5 ]/Subtype /Widget /T (end_date)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+12 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [387.13999999999993 361.5 447.13999999999993 374.5 ]/Subtype /Widget /T (base_amount)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+13 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 14 0 R
+ /Rect     [402.1499999999999 311.5 457.1499999999999 324.5 ]/Subtype /Widget /T (hourly_rate)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 27 0 R /MediaBox [ 0 0 612 792 ] /Parent 26 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+15 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [132.0 437.5 277.0 450.5 ]/Subtype /Widget /T (client_name)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+16 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [376.0 437.5 521.0 450.5 ]/Subtype /Widget /T (provider_name)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+17 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [132.0 417.5 277.0 430.5 ]/Subtype /Widget /T (client_title)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+18 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [376.0 417.5 521.0 430.5 ]/Subtype /Widget /T (provider_title)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+19 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [132.0 397.5 277.0 410.5 ]/Subtype /Widget /T (client_sign)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+20 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [376.0 397.5 521.0 410.5 ]/Subtype /Widget /T (provider_sign)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+21 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [132.0 377.5 232.0 390.5 ]/Subtype /Widget /T (client_date)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+22 0 obj
+<< /DA (/Helv 9.5 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 23 0 R
+ /Rect     [376.0 377.5 476.0 390.5 ]/Subtype /Widget /T (provider_date)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ] /Contents 28 0 R /MediaBox [ 0 0 612 792 ] /Parent 26 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/AcroForm 29 0 R /PageMode /UseNone /Pages 26 0 R /Type /Catalog
+>>
+endobj
+25 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20260927000915+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260927000915+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+26 0 obj
+<<
+/Count 2 /Kids [ 14 0 R 23 0 R ] /Type /Pages
+>>
+endobj
+27 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4632
+>>
+stream
+GatU8=`<%q(4OT5+G-"(*DAH*$b*jH8_OKtVOcAgVnCC)[EX_"WYB#'rUk6W-1BhqQ1Zj[;FCQ2a1Il'3t!L#N;aLas/U""I!;"Vl[+a"R9X&G6DllTr%WJ@q98iM9LNdu]aFchAcP]hBjN-_b`^.do((E,+#!ZkqT%[ApHL#AmlpaIrlr'5jRj$*hnApOh1s0lP0;aGbC@IG17b*0,LC"ek$"$A;:cT]e'%475KruSV&?_`7l*&?B85J9o'cQ3Cd'6(&'`\\pV["pIIlQQ#V<<COcLS_b+pFA?3WRPo![@!_R3!o16V[F*QCIQ5p1j1Bj!qCFEWbYY0s&%j=e_rf<,Oh%oLkkN:HaV0P5+3&HS"tUcRASVjHGGJIi/SU&j2_?cR6S;O+&9M(]XV<i*MAV\PT8X<@ub<[(j:2tdd_h2.'k)JBXB,MS(dZbMO=It*ca4E5j7rpVHjPP\uuU;`qUUf#l7f9Q6<8M6V5kNRca)6#n#2(HE(Ql#2ihd'TYe_&_E&4.)^,!=*(Ai-;Ks+EZ./<r6t\bZ_k(Fm\i2)H>L4ebhgp>GIQ]Jl_bp4s5BH'V&a\$B^>Mn_DB#=OlU("ojTU]W+E3)^&]2JJ/#13DrAU5r99oR/gX@^\Ao;\.68R-j4&,?g2d%;iRhGF2H5<GCndTPU&3UrAc5U50@%f^I;K1/Co_J?-SZioM6Q+[p,DTEf2N1\?IQ:9aap@f"iiMF0HXBur+iO6;_XU;j8)3\?3pl%o!q@5p:C^.J$bTtbBpAiRtUKFPqH?.eQA+6T5G,kkG0cc1,[b;>,Y%\&Ke8fIb,djZ^+`QMV!3]\LM1.HghLCYSi&4"]A<@Zu3/2EbG9=9R@c8D0*P-aEBh_<O$.ih=(kq*cKH:7SJbe-s@BRM@D2)8Tu+)\eLLYV8aUrg7:VR`t=/0Vo'R#a`JaK3mEn78WH<?4LU-pk5.BFf&Tr!X"]9_)p/@-jaEem.LI;BEXp35g(+ii93jN$1gan`3rFnBMHorI_.1K5dkjKJPmXH:_7,l)".75Xaq8?"$Kdlm*RdFk\e71;I9jmQPGr@iDq3rGB0a]M=_m_LmA\:!5#Oi?[j\1f3@H)VY@["R8UT79KM;5mk[DQ]m90c$hOW='32SThd(t_=lN)NuZJ[b"^9end&n]/kXRRgl!gY@HD$[1WKF&fg*"p.2`q1$`e_L/&6b'XN@CJ&(,T6KFL@V]OVm4VbllUT]:Nn)*p)jDL'kpXT'KuF>pYa!K5U#pkNo82[2j?7@FD1CG<rZQ>O,ZF+jp_ca1aaBDKq_%QIP,;AFJ1W15%<=_2MT0Mes'5P(=tW%CjX_EMm2GBLM&'B@3[B*>g5e`O)R],O;_C!ELD+D3.6,]t_mhn$tQnFLIb7%BtENs-1q$F[L34`hX)&MgsN_SNLS:p:nTW_uP6@25XWLcAh__P&G!IG7')7#fC<$TG+d5HGgN_s(?EBuPXr=\<Q\X$9(`]VOk6:/6VJmG#@mU'qu;m6Ru#6DuH;KbkfX#cI!Q*/,(#&anuL]e653P\G0Cl?=T>YEL2RA;Jt*>^VZ"A*5Dl9LL"B//B^J#8.U!B%,UfX!hdR*3E\GaOgo_c-!-M&.q1/fA/^6MBqAI'bNpmh=RYpXn#H7#FejafZ=ZTnSXe5c3?"Q>1M1>4AP2DaeKd;;i4$\4_MI&/.l=M=[Dg1r)SJMeer^k7Hk33MV5'ob+-PHI[(#2Lj(\C]@Pb)/k/`\Vj')IJ4*5"'OB]3\SHp8h$=hB*aB.gf]Me>h*^E0CPEO1Tc%239s]U!'`0Kp5Q,oWhd`f^EoetTON2%TIN[[d\/LLa3aTn-fsN'%SW^T6&OaAQgMQh#1K*:e(*cJ`:(\YCW`@M[b4ns5_5s+(#eE<u$SDnoSAT5=D@fl%,,!,Eb6qZ.EPd<!S;pFKH4!83heuk=balR&3)eUG#Zu`4%;&E8gtjbd:9(iI'qio(VO4%:P;RiWeH,(;E<f%TLGPA'9$4Z8V"8gMS+`^HCC*&F/U-\42i#t)jfbRtW_tXM8s;44G%\D"]r^9`6Mf37`oNKKZRsOEEV?Rbg_3Bn<Ts6-!bn9+[dW1.^MEP(Y4%U^TL;Ef?MlInnk"MI89O//go(Ls.jVUMCQF%uV^6D4jT-8HlW>PfF=P0_Ju)mr[bApm)N8KqVi=^eR1:6A&KV@I;j8iC%-?QRNp+c&b8'!h"r$*)B/jc[Yu=&;K'_C?.G7^4.X7`*<\q+CI\'cLUNE^M7_/]f!46*qHYJt5?s1,o=SpRe8p33nUgTpA(9d:FEC)"*mJM27c?QTVgfBl74BM^,2.qR@iCg&UC6_7YYVq_h?tL`sbn`JF?o9(+Ck::H?grRU8/"Ub6956p/0LOsHZG$C=HX'/dOb=fNgK^3$_IhY`65LVr1EH%5cHDi^b*HS0T@\/!-9m2!IQ0\LrD5_HfIm#Fb`D?gm0+RoO*,4R/MgUOB%T$O*;GcqUKGD<?R+TWGmU(U&SuX6#[j?%oRZib^ZU\>E2I%M%OMY,8Di*5E,J_NR^m!gU_>0TF]S\L_X?T+(\@bHD(kom&5i+h]DJnpReK__M_c0cXm\'KU]l(9=a_f@)%oG1Fiufq,"n%54+'mLDJ-DV%T:mq`TId<^,30H[Z@23=FTa=EaPHU6S6coPBU6B!qs([gjhsf9XQ73]G:S802Vi_RE%KpM#e)$TeiK1OmV[8P<=,,*#9s+k$4.81Mps1XQdj8^5HJo3@I$ZPh`1;3G+K>geQA*:iV[D4jjjOl#clVdUs>/`B9C=*YD"Xp/)Ua-[p%3iP7Ja>ERS8C,-sa(T54<?Wa&D7d]j)VGct9pUg=.@d@tiV3&sNqgZD<6]=;@D%,$o`NkXk)kEZ.F!-b*k%YKr30WDF2Du5#9nt&S(o1>q@CRWo87D)04Dt%)\8TT%tTHODRB`6fk@W'0;g`=!3b3,E]Z]l_1I-,jt3NF%p4bHk!r1V=l7%Ip7gIgG)(Undnk_CK(6^rZ:r02d0^@FNO^Gkb]Q"KjWQ1YF;X4W(L4<T.p-c\U9Kh5%KWAZV+pCUieP?,"'.5m[PT+n<Fqu5PL&4Wn/c]t^#KD,YV&f-.5V:7J7*@u-hdW>PbDU#*ECbSMSjZJ3\QBf6:D5h]bctQdO$^aW<$U\WoD+eV"_;>!.(iCk027>XMJ>Zb4^o5RNQD7>Su0PT:;kjQr`d9N"1A.M]Q*\C"cC'*S(7Qpb60jLEa2KA-Vfsnc/-[M^JP*Ju;us^q0@>89[g`J"E.OUZ[9r74MN5FRmIQJ!rK=DW%=oLE7C)05\lWS3AnmRrS0WS/do$Om<Dl#Nf(8QD>9K>\W.cQ`qJk[5n<SpP5Lq`fh2$/#mmr:S3>j4EBAX)h#/`lGOKX?/+QN$i%iFDO[e7JUDYOR0tO>8m/UhMNQ@7YaA_MK"?TuHE>FpgQ%]o-/"Pt_5OCKA_Fpf*;>o",A,41F6P3;a1UR!TZQ:p-\'ocSu181AUQAM0rK:XA87V'\QUQX\eo":OV4C)\ZeG*:3qKeCJo[6hE0lnE`&Z!J)MhL[N&WYC`p/hgD>"/YKcPep0\V;fbY,="<)/GY&(<YMjf`Z85^1G&!Ea!I-d]G>E`<E$P,ID@uF?+Q0m$^q-DI$p#@LX/LnS/p(lW?d!UBq'u.L+(D]hYX^[h'K7'Q,kMV$X!re4*g!';LAX-)@H_:cXLYMJaTb-JCVjF-0<j+=Y.a5cKF$`g(E8t5JfRaSsYP;lOro1^j#Dt.a;ENKqSJUoGhu(l>&!3Dl+$%qM2s(;`^T;JdN)$t?[b-g%^TJ]E#IqNc=1;eX&:>8%JA.<C5^:c8RfU[OAS-_.*5I_'/BrSR#CsS<QVSp\=h`SU_+C`-VDF,@VVPQ!#&pZ#VkQ;lP)?@#Jm^P@YV)`O.C8S8J5o"il0@I8RXO(eM*82H3`s8!he_GP5K8s8U?YV&i<:uJ9$gj6#Cl8<#i!^G(pH)hlP!%mg)TS'@,n&WR#XQ*0PP`*\j^_8fsKf&j@/X5mp<\EpT%$'57An/0-)@2?@I.rqLKI//EE5*V*_eTF6Fq!V*Y#2O$C%mArob(HL,9N!mG.,E4SJK?NU\qn\JZ,RZ)Tr!U+rEhu2L3?tjFk$f;!Kq5GZ'79&jSpl_4YDPKa<*<?W3g0jSim\@ku[]qPh9o_#9!9gt<7RtBmn&Q>hLT=.]K"Qi@1]C3;^tG2phkG2ZCc'Rg%r0de7T4@RTMX@i@!k;oMG$3:ou!q&Bt3(5O9fCOYK[8m`0,sO*FVe,9\CZCn)/2oGW2GZAtVL[-ec(N(f85G_'Z^WZpQ8C@;f2!60IMm`5e4Vn#se/Ah]UPB(iXFk^j=eW`tSRkB>?#J8ACGd.09sH$mBj(C@T$''n2EQQ=c?VJfFOQ[K(Z`Hr-$gGIgra4dsI"2]?k`osdur>\qH)6Bm\%K1M`$Y[&WUS@hkI%`jZ05C^\7<8bt>uAXTGo4o;a"mO/NG'8=X^BfA7jN#-/R#<\"*Id$!UZ^:raP$]1iK+).R9Z.aX2XHRdP-b=?QS#:A"Sk<s<Hun*q5&hTt.0Fr_,ZIBKY3Gj3t3!tIWN&Y"(iZa"rLkU%'d739e`0G.7%BH!6;lgU`M/2OZ@s)8KVGpg(>hK\Ri?iI8@SNQd6*DQ+M~>endstream
+endobj
+28 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2370
+>>
+stream
+Gat=.9lJfF&A@sBkYsN1_hoP1V"U$":2:tkJp?$VI$&".>)cS:C*hX1pDm-EaYZ;H\&\di:>R4.3:f*c>b7b`Mn?aiI?ON:8Uc-5'/#Hm2W9OmAFh.YfUT'.:Yj>cpaKPUE^@J)?h_Zfh07W9c?-I&c]ZO;al^Y4@c/G?ARKdBoFJkq5STY8Uo-3/=)A?(MirqPj.$"@21*f3#`"KFj+1\oeZnSCgX\V8A]e!A`R32ad#9%Y$7U"m1J`!-qQ[7$p'>[!g_3ZC*<`bckf=4REG0+.P=e@m<7jHARj5:gQ0!r0Jp@SQj@*&_9E[#/4TmB1-:92?p\b\]!h3,fSr_2+'LnY0_O236Q_'tmE_3-%l?EF.AfM6o"?]be#Y#f3>LJ7GW9UW0TT^'^11#4"a*["iKN:cmE-6NogM&KH+@n+%pDfa?*$HUs@W2Gc7T'sR%i4YiY(+BQ=N(MjSEbGPO_OIgDn9dMm&RDU4"M+FQCV^(d[]R[4S(sU3'rI4'2_3d^PC/Rf?r!\I/Oi)@845"7;f$+[XL;eFtJSi&EL0JcoE:@OtL$bnAS>^:.Mqo02N"VS7SO0g"\M_ic8>YkZQlrVFDe#U`#A)"*_GpPXC\:a?7-$Z--BdQ:[.?%L5Zb6r$f#pNS7W76q/"(-aPFUa-WEY_DshKE=DN"Y5022s8`91JE7.N5%5m^W2@2E>$S/6\jp7D//PYcfc?8/m&G!jGT%me<(E"IbI(CRL*lTYn2\hLh*jigepFp#roC#PQ_-0ED$VCK%Hap=%i]U;haDE3PWNWM!$h=K*##"!Zk$PRKr3M(0!l'_1A`A;-SUn5j!BEQ!lcHHV=]C<e_&_(mY:a*8l)!$s;W.3Qjba*NB-V6fb>A$i[E).X6P%=QX.B)4f\ja--ou;5cH["G$b-L6X#;kU;+"/;0;:-cW?IQ6"2a;_qgtX3-AiMdn\BQI=`GjLI^k(TliBkH6hr/N#apo0?lRh>+nglB]-W4Vl0WDB!i^Yn'jh@/F9kDSas'1dLU!'W^m$IK5-GJiXXk,<ViGb$C5>GVHb/Xf,J$$1#(!n+@ZUq9At?-Y4c(S2(J8e8_F+N&spcE;#u2atNOVD$(9"<(]$#a#En/\SE\!DkXH_*!Xrr9o\*>l)O3+!1dFmq&*3t)Y4!qRYj(fTG4c]6.g<tAXeDZaDb@lE9Tr!%`)H&ddS]_:?]8)nF\V#1aF4MK:BO7Stb+/?mT'm[XbPf]n"Iu8fd0D0AC5&)Q6rGm91AE2H["3ljQu"e#CdQ\W-p\q/#>RY;l%;"]N]gfYT\n*ZMZq`fH2k8kRu'`'W("ccM^pKtY2f/:^)i`Dq:&CG(15RsFq;P"ZlE`/6%k170bI'*QIrC`/n90Kn?n'7uM.ZV:@1!Kqd\rgFs&g\H0.P6+FtEb4ojAH:mo]M*/tX_@<JBEi^/+=&C&Dus-9W.O,>#G[h5GPD:c,s.!g"Xor)\S^gY(49#k,%?8@fF8%6&<_a'6Z@so:mS6e?d[4Xl7.mW4pNl#4f0;VZ_cl"Su81#etKqQj?!X>$TmrenMfVDm(#[.,Q(&1%:>X<;J5/@CoK:U:r"b6'!$>rmf-IdB,SlpZ3fK[r/b/B]C'sZh8\uM3o%sLD3_H6`d(NV9euM5Bi?9dJD52?prXh9I>-YIR(.tACT`;I-!70V(,0)!oaN\5`^q$uZuDJs=hpP5lApIn,3$F\NI;G[e0f>&j*@L(W1;R)_FAP()QBUg@5?gh\:Nbo4CQX6KXO<`@(85K.69bgCsF5^]BUV!8BJE5iWXr!m\'[m`+Gt_$iY.Mn"F,H6MJ$L39HM:qjN2.WtNbK-Q!P&9BSlB&7*I]S'Tni1D&M.Z?os;&HuEMfi^ZS>B@T592NBha7tj1%>%,m7"Sb9aupCA4Qlp9ATgH[\^=6U=b?g;E`O,T1)O6\KB#GchPp\"FMJ)%_Tq#4fE>Q=h7Ota@hl>m933ip]\.2miIb,:8r_/[$bMIbo:tKZUT5*W$/1(_dfk/FKg6#WgX^oSqf6b#EIEhGPdFeBLcGCDG^o8W2'amLlWAEMOatJ$;C@_1Dp+jZHp<qb!BY6sAS/`%gcVttfF^Q+"dCF#e[RlKHj'TL$;+_a-?^`g$Y?-anLf3+ou5&,;H4+%^Dr`sh\pDc0<R4*;M=I48,r2:qmV&\^:JRhq6%nP2=A5`(mj+LZ>/4o<OMj;Z=Voaf0A_R5@]!0Gh,_3'8B]K/D8K4k0)pG\].ZnG(<4Y\l%%T1OF/?/T$I_lcP]/CqnS:*a-``[i/Q,REZt_:KuSBSZYW?hQ.WniB'c#AMAQ3I%';tXDc?jf=0n7\3?<6MfnhsFE`,1jnWArs*U!kkgIc?ASL6jgSL+?rr@8\q+C~>endstream
+endobj
+29 0 obj
+<<
+/NeedAppearances false
+/DA (/Helv 0 Tf 0 g )
+/DR 30 0 R
+/Fields [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ]
+
+/SigFlags 0>>
+endobj
+30 0 obj
+<< /Encoding 31 0 R
+ /Font 32 0 R
+>>
+endobj
+31 0 obj
+<< /PDFDocEncoding 33 0 R
+>>
+endobj
+32 0 obj
+<<
+/CoBO 34 0 R /CoBo 35 0 R /CoOb 36 0 R /Cour 37 0 R /HeBO 38 0 R /HeBo 39 0 R 
+  /HeOb 40 0 R /Helv 41 0 R /TiBI 42 0 R /TiBo 43 0 R /TiIt 44 0 R /Time 45 0 R 
+  /ZaDb 46 0 R
+>>
+endobj
+33 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+34 0 obj
+<< /BaseFont /Courier-BoldOblique
+ /Encoding 47 0 R
+ /Name /CoBO
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+35 0 obj
+<< /BaseFont /Courier-Bold
+ /Encoding 48 0 R
+ /Name /CoBo
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+36 0 obj
+<< /BaseFont /Courier-Oblique
+ /Encoding 49 0 R
+ /Name /CoOb
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+37 0 obj
+<< /BaseFont /Courier
+ /Encoding 50 0 R
+ /Name /Cour
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+38 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding 51 0 R
+ /Name /HeBO
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+39 0 obj
+<< /BaseFont /Helvetica-Bold
+ /Encoding 52 0 R
+ /Name /HeBo
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+40 0 obj
+<< /BaseFont /Helvetica-Oblique
+ /Encoding 53 0 R
+ /Name /HeOb
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+41 0 obj
+<< /BaseFont /Helvetica
+ /Encoding 54 0 R
+ /Name /Helv
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+42 0 obj
+<< /BaseFont /Times-BoldItalic
+ /Encoding 55 0 R
+ /Name /TiBI
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+43 0 obj
+<< /BaseFont /Times-Bold
+ /Encoding 56 0 R
+ /Name /TiBo
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+44 0 obj
+<< /BaseFont /Times-Italic
+ /Encoding 57 0 R
+ /Name /TiIt
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+45 0 obj
+<< /BaseFont /Times-Roman
+ /Encoding 58 0 R
+ /Name /Time
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+46 0 obj
+ << /BaseFont    /ZapfDingbats /Name    /ZaDb /Subtype    /Type1 /Type    /Font>>
+endobj
+47 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+48 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+49 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+50 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+51 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+52 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+53 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+54 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+55 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+56 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+57 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+58 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+xref
+0 59
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000576 00000 n 
+0000000804 00000 n 
+0000001032 00000 n 
+0000001262 00000 n 
+0000001492 00000 n 
+0000001743 00000 n 
+0000001969 00000 n 
+0000002195 00000 n 
+0000002448 00000 n 
+0000002699 00000 n 
+0000002971 00000 n 
+0000003199 00000 n 
+0000003429 00000 n 
+0000003658 00000 n 
+0000003889 00000 n 
+0000004117 00000 n 
+0000004347 00000 n 
+0000004575 00000 n 
+0000004805 00000 n 
+0000005069 00000 n 
+0000005156 00000 n 
+0000005418 00000 n 
+0000005486 00000 n 
+0000010210 00000 n 
+0000012672 00000 n 
+0000012903 00000 n 
+0000012958 00000 n 
+0000013004 00000 n 
+0000013201 00000 n 
+0000014533 00000 n 
+0000014652 00000 n 
+0000014764 00000 n 
+0000014879 00000 n 
+0000014986 00000 n 
+0000015107 00000 n 
+0000015221 00000 n 
+0000015338 00000 n 
+0000015447 00000 n 
+0000015563 00000 n 
+0000015673 00000 n 
+0000015785 00000 n 
+0000015896 00000 n 
+0000015994 00000 n 
+0000017326 00000 n 
+0000018658 00000 n 
+0000019990 00000 n 
+0000021322 00000 n 
+0000022654 00000 n 
+0000023986 00000 n 
+0000025318 00000 n 
+0000026650 00000 n 
+0000027982 00000 n 
+0000029314 00000 n 
+0000030646 00000 n 
+trailer
+<<
+/ID 
+[<6fa098b6ffd21de5d8b3c1bfea2ec642><6fa098b6ffd21de5d8b3c1bfea2ec642>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 25 0 R
+/Root 24 0 R
+/Size 59
+>>
+startxref
+31978
+%%EOF

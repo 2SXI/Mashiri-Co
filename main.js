@@ -11,17 +11,14 @@ if (header) {
 
 // ===== Mobile menu =====
 const menuToggle = document.getElementById('menu-toggle');
-const navLinks = document.getElementById('nav-links');
-const navCta = document.getElementById('nav-cta');
-if (menuToggle && navLinks) {
+const navPanel = document.getElementById('nav-mobile-panel');
+if (menuToggle && navPanel) {
   menuToggle.addEventListener('click', () => {
-    const open = navLinks.classList.toggle('mobile-open');
-    if (navCta) navCta.classList.toggle('mobile-open');
+    const open = navPanel.classList.toggle('mobile-open');
     menuToggle.setAttribute('aria-expanded', open);
   });
-  navLinks.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
-    navLinks.classList.remove('mobile-open');
-    if (navCta) navCta.classList.remove('mobile-open');
+  navPanel.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
+    navPanel.classList.remove('mobile-open');
     menuToggle.setAttribute('aria-expanded', 'false');
   }));
 }
@@ -42,7 +39,7 @@ if (revealEls.length && 'IntersectionObserver' in window) {
   revealEls.forEach(el => el.classList.add('visible'));
 }
 
-// ===== Document Library (credentials.html only) =====
+// ===== Document Library (credentials.html and services.html) =====
 const docLibraryItems = document.querySelectorAll('.doc-library-list li[data-file]');
 docLibraryItems.forEach(li => {
   const file = li.getAttribute('data-file');

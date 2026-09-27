@@ -87,17 +87,19 @@
         <span>REGISTERED PUBLIC ACCOUNTANTS</span>
       </div>
     </a>
-    <nav class="links" id="nav-links" aria-label="Main navigation">
-      <ul role="list">
-        <li><a href="about.html">About</a></li>
-        <li><a href="services.html">Services</a></li>
-        <li><a href="track-record.html">Track Record</a></li>
-        <li><a href="credentials.html">Credentials</a></li>
-        <li><a href="faq.html">FAQ</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
-    </nav>
-    <a href="contact.html" class="nav-cta" id="nav-cta">Request a consultation</a>
+    <div class="nav-mobile-panel" id="nav-mobile-panel">
+      <nav class="links" id="nav-links" aria-label="Main navigation">
+        <ul role="list">
+          <li><a href="about.html">About</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="track-record.html">Track Record</a></li>
+          <li><a href="credentials.html">Credentials</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+      <a href="contact.html" class="nav-cta" id="nav-cta">Request a consultation</a>
+    </div>
     <button class="menu-toggle" id="menu-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-links">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" focusable="false"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
     </button>
@@ -111,14 +113,11 @@
   <section class="hero">
     <div class="wrap hero-inner hero-single">
       <div>
-        <div class="eyebrow">Est. 2019 &middot; Harare, Zimbabwe</div>
+        <div class="eyebrow">Registered in Harare since 2019</div>
         <h1>Registered Public Accountants in Harare, Zimbabwe</h1>
         <p class="lead">Mashiri &amp; Co. is a registered firm of public accountants offering integrated tax, audit and consulting services &mdash; built on quality control, peer review and IFRS compliance, for businesses that plan to be around a while.</p>
         <div class="hero-cta-row">
-          <a href="contact.html" class="btn-primary">
-            Speak to a Director
-            <svg aria-hidden="true" focusable="false" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
-          </a>
+          <a href="contact.html" class="btn-primary">Speak to a Director</a>
           <a href="services.html" class="btn-secondary">View services</a>
         </div>
       </div>
@@ -131,7 +130,7 @@
       <div class="section-head reveal">
         <div class="section-eyebrow">Who we are</div>
         <h2>A firm built on quality control and good governance</h2>
-        <p>Incorporated in Harare and re-registered under the Companies and Other Business Entities Act, we work with owner-managed businesses across farming, hospitality, retail and irrigation &mdash; handling the numbers so our clients can focus on growth. <a href="about.html">Read more about our firm &rarr;</a></p>
+        <p>Incorporated in Harare and re-registered under the Companies and Other Business Entities Act, we work with owner-managed businesses across farming, hospitality, retail and irrigation &mdash; handling the numbers so our clients can focus on growth. <a href="about.html">Read more about our firm</a></p>
       </div>
 
       <div class="about-grid">
@@ -181,6 +180,20 @@
                 <p>To promote transparency and accountability in our work and our clients'.</p>
               </div>
             </div>
+            <div class="value-item">
+              <span class="value-mark mono">04</span>
+              <div>
+                <h4>Honesty</h4>
+                <p>To be truthful and ethical in every recommendation we make.</p>
+              </div>
+            </div>
+            <div class="value-item">
+              <span class="value-mark mono">05</span>
+              <div>
+                <h4>Teamwork</h4>
+                <p>To work collectively &mdash; across our firm and with yours &mdash; to reach shared goals.</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -224,34 +237,49 @@
     <div class="wrap">
       <div class="section-head reveal">
         <div class="section-eyebrow">What we do</div>
-        <h2>Three ledgers. One firm.</h2>
-        <p>Fully integrated tax, audit and consulting services &mdash; tailored to give you an effective route toward your business ambitions. <a href="services.html">See full service details &rarr;</a></p>
+        <h2>Four ledgers. One firm.</h2>
+        <p>Fully integrated tax, audit, consulting and virtual CFO services &mdash; tailored to give you an effective route toward your business ambitions. <a href="services.html">See full service details</a></p>
       </div>
 
       <div class="ledger-table">
         <div class="ledger-entry reveal">
-          <div class="entry-code mono">01 / TAX</div>
+          <div>
+            <span class="entry-icon"><svg viewBox="0 0 24 24" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3h10l2 4v13a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7z"/><path d="M9 11h6M9 15h4"/><circle cx="15" cy="8" r="1"/></svg></span>
+          </div>
           <div class="entry-title">
             <h3><a href="services.html#taxation">Taxation</a></h3>
             <p>Income Tax &middot; PAYE &middot; VAT &middot; ZIMRA registration</p>
           </div>
         </div>
         <div class="ledger-entry reveal">
-          <div class="entry-code mono">02 / AUDIT</div>
+          <div>
+            <span class="entry-icon"><svg viewBox="0 0 24 24" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v6c0 5-3.2 8-7 9-3.8-1-7-4-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg></span>
+          </div>
           <div class="entry-title">
             <h3><a href="services.html#audit">Audit</a></h3>
             <p>Audit &amp; assurance &middot; internal audit &middot; forensic audit</p>
           </div>
         </div>
         <div class="ledger-entry reveal">
-          <div class="entry-code mono">03 / CONSULT</div>
+          <div>
+            <span class="entry-icon"><svg viewBox="0 0 24 24" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v10H8l-4 4z"/><path d="M8 9h8M8 12h5"/></svg></span>
+          </div>
           <div class="entry-title">
             <h3><a href="services.html#consulting">Consulting</a></h3>
             <p>Bookkeeping &middot; advisory &middot; company secretarial</p>
           </div>
         </div>
+        <div class="ledger-entry reveal">
+          <div>
+            <span class="entry-icon"><svg viewBox="0 0 24 24" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V9M10 19V5M16 19v-7M20 19H4"/><path d="M15 6l5-2 -1 5"/></svg></span>
+          </div>
+          <div class="entry-title">
+            <h3><a href="services.html#virtual-cfo">Virtual CFO Services</a></h3>
+            <p>Fixed-term retainer &middot; strategic financial leadership</p>
+          </div>
+        </div>
       </div>
-      <p class="services-cta reveal">Have questions about engaging us? <a href="faq.html">Read our FAQ &rarr;</a></p>
+      <p class="services-cta reveal">Have questions about engaging us? <a href="faq.html">Read our FAQ</a></p>
     </div>
   </section>
 
@@ -261,7 +289,7 @@
       <div class="section-head reveal">
         <div class="section-eyebrow">Track record</div>
         <h2>Businesses we've worked alongside</h2>
-        <p>A sample of engagements across contract farming, hospitality and tourism development. <a href="track-record.html">See the full track record &rarr;</a></p>
+        <p>A sample of engagements across contract farming, hospitality and tourism development. <a href="track-record.html">See the full track record</a></p>
       </div>
 
       <div class="journal-list">
@@ -309,10 +337,13 @@
     <div class="wrap">
       <div class="trust-strip-inner reveal">
         <div class="trust-strip-text">
-          <div class="section-eyebrow">Verified, not just claimed</div>
-          <p>Registration, practising certificate and current ZIMRA tax clearance &mdash; all published and checkable against the issuing authority.</p>
+          <span class="trust-icon"><svg viewBox="0 0 24 24" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="9" r="6"/><path d="M9 14l-2 7 5-3 5 3-2-7"/></svg></span>
+          <div>
+            <div class="section-eyebrow">Verified, not just claimed</div>
+            <p>Registration, practising certificate and current ZIMRA tax clearance &mdash; all published and checkable against the issuing authority.</p>
+          </div>
         </div>
-        <a href="credentials.html" class="btn-secondary">View credentials &rarr;</a>
+        <a href="credentials.html" class="btn-secondary">View credentials</a>
       </div>
     </div>
   </section>
@@ -323,10 +354,7 @@
       <h2>Ready to get your books in order?</h2>
       <p>Tell us what you need and a Director will respond within one business day.</p>
       <div class="hero-cta-row">
-        <a href="contact.html" class="btn-primary">
-          Request a consultation
-          <svg aria-hidden="true" focusable="false" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
-        </a>
+        <a href="contact.html" class="btn-primary">Request a consultation</a>
         <a href="tel:+263783545876" class="btn-secondary">Or call +263 783 545 876</a>
       </div>
     </div>
@@ -364,6 +392,7 @@
           <li><a href="services.html#taxation">Taxation</a></li>
           <li><a href="services.html#audit">Audit &amp; Assurance</a></li>
           <li><a href="services.html#consulting">Consulting</a></li>
+          <li><a href="services.html#virtual-cfo">Virtual CFO Services</a></li>
           <li><a href="contact.html">Request a consultation</a></li>
         </ul>
       </div>
